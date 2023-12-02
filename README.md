@@ -1,5 +1,10 @@
-# Tópicos Especiais em Programação I - Teste 4
+# Teste 4
 ##### Guilherme Caiasso e Mell Matsuda
+### Descrição:
+Esse projeto é uma aplicação em Python que demonstra algumas funcionalidades das bibliotecas Pandas e NumPy, Um sistema gera pacientes fictícios e o resultado de seus exames de sangue, compara com os valores ideais e gera tabelas com os pacientes com indicadores anormais. Também, há explicações da importância e utilidades da biblioteca NumPy para grandes volumes de dados.
+
+Trabalho realizado para a disciplina de Tópicos Especiais em Programação I.
+
 ---
 <img src="https://numpy.org/images/numpy-image.jpg" width="200" align="left">
 <br><br><br><br>
